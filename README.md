@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghyeonuk&layout=compact&langs_count=8)](https://github.com/jeonghyeonuk/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghyeonuk&layout=compact&langs_count=8)](https://github.com/jeonghyeonuk/github-readme-stats) -->
